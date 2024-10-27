@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "tag": "forge:crops"
+    }
+  },
+  "output": {
+    "count": 2,
+    "item": "mekanism:bio_fuel"
+  }
+}

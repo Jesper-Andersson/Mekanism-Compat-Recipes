@@ -1,0 +1,26 @@
+{
+	"pack": {
+		"pack_format": 15,
+		"description": [
+			{
+				"text": "MC 1.20.1",
+				"color": "white"
+			},
+			{
+				"text": "  ",
+				"color": "white"
+			},
+			{
+				"text": "Mekanism Compat Recipes",
+				"color": "dark_red"
+			},
+			{
+				"text": "  "
+			},
+			{
+				"text": "By",
+				"color": "jesper-andersson"
+			}
+		]
+	}
+}

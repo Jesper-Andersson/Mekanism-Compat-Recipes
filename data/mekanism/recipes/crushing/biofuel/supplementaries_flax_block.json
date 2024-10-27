@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "item": "supplementaries:flax_block"
+    }
+  },
+  "output": {
+    "count": 18,
+    "item": "mekanism:bio_fuel"
+  }
+}

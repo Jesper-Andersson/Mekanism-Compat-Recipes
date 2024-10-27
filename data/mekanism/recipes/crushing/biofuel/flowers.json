@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "tag": "minecraft:flowers"
+    }
+  },
+  "output": {
+    "count": 1,
+    "item": "mekanism:bio_fuel"
+  }
+}
